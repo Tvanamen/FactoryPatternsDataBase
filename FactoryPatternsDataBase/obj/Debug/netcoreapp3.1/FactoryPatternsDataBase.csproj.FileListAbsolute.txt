@@ -1,0 +1,14 @@
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\bin\Debug\netcoreapp3.1\FactoryPatternsDataBase.exe
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\bin\Debug\netcoreapp3.1\FactoryPatternsDataBase.deps.json
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\bin\Debug\netcoreapp3.1\FactoryPatternsDataBase.runtimeconfig.json
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\bin\Debug\netcoreapp3.1\FactoryPatternsDataBase.runtimeconfig.dev.json
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\bin\Debug\netcoreapp3.1\FactoryPatternsDataBase.dll
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\bin\Debug\netcoreapp3.1\FactoryPatternsDataBase.pdb
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\obj\Debug\netcoreapp3.1\FactoryPatternsDataBase.csproj.AssemblyReference.cache
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\obj\Debug\netcoreapp3.1\FactoryPatternsDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\obj\Debug\netcoreapp3.1\FactoryPatternsDataBase.AssemblyInfoInputs.cache
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\obj\Debug\netcoreapp3.1\FactoryPatternsDataBase.AssemblyInfo.cs
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\obj\Debug\netcoreapp3.1\FactoryPatternsDataBase.csproj.CoreCompileInputs.cache
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\obj\Debug\netcoreapp3.1\FactoryPatternsDataBase.dll
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\obj\Debug\netcoreapp3.1\FactoryPatternsDataBase.pdb
+C:\Users\vanam\Documents\repos\FactoryPatternsDataBase\FactoryPatternsDataBase\obj\Debug\netcoreapp3.1\FactoryPatternsDataBase.genruntimeconfig.cache
